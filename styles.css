@@ -1,0 +1,35 @@
+body { 
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: bisque;
+}
+
+.heading {
+    font-weight: bold;
+    color: brown;
+    margin: 0 25em;
+}
+
+a {
+    padding: 10px;
+    margin: 10px 25em;
+    display: block;
+}
+
+.recipe.one {
+    border: 2px solid blue;
+    background-color: aliceblue;
+    color: blue;
+}
+
+.recipe.two {
+    background-color: plum;
+    border: 2px solid purple;
+    color: purple;
+}
+
+.recipe.three {
+    background-color: darkkhaki;
+    border: 2px solid green;
+    color: green;
+}
+
